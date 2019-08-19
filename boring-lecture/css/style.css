@@ -1,0 +1,18 @@
+p.intro {
+  color: turquoise;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  text-align: center;
+}
+
+h2.intro {
+  color: purple;
+  font-family: fantasy;
+  font-style: bold;
+}
+
+img.intro {
+  max-width: 75%;
+  height: auto;
+  border-radius: 50%;
+}
